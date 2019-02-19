@@ -11,8 +11,11 @@ Then you can run the compiled binary file the normal way.
 ## Features
 * Takes user input with wasd in the terminal
 * Prints the board in terminal
-* Allows game to be saved and reloaded as a .txt file
+* Allows configuration board to be loaded as a .txt file
 * Detects when the player has won/lost
+
+## Screenshots
+<img width="350" alt="screenshot 2019-02-19 at 17 45 42" src="https://user-images.githubusercontent.com/40459599/53035868-5a725500-346e-11e9-9623-850e5d57b4b2.png">
 
 ## Requirements
 * A C++11 compiler to compile the source code
