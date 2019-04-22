@@ -2,7 +2,7 @@
 A simple command line implementation of the 2048 game. This was a project as part of a programming module at Imperial College London. This was actually the first time I'd ever touched C++ and so it was a fun way to get started.
 
 ## Usage
-Compile it however you compile C++ programs on your OS. For macOS and Linux with the G++ compiler, run within the directory the source file is in:
+Compile it however you compile C++ programs on your OS. For macOS and Linux with the gcc compiler, run within the directory the source file is in:
 ```
 g++ 2048.cpp -o 2048 
 ```
