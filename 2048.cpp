@@ -4,6 +4,7 @@
 #include <fstream>
 #include <cstdlib>
 using namespace std;
+
 void print(int board[4][4])   //prints the grid
 {
 	for(int i=0;i<4;i++)
